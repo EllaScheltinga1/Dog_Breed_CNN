@@ -1,8 +1,11 @@
 # Dog Breed Identification (Udacity Project)
 
+## Project Description
+This project builds an end‑to‑end dog breed identification algorithm using Convolutional Neural Networks (CNNs). Given an image, the system detects whether it contains a human, a dog, or neither, and predicts the most likely dog breed using deep learning.
 
-
-
+---
+## Project Motivation
+The goal of this project is to explore practical applications of convolutional neural networks by building an end‑to‑end image classification pipeline. By combining human detection, dog detection, and dog breed classification, this project demonstrates how multiple deep learning models can work together to solve a real‑world computer vision problem.
 
 ---
 
@@ -33,3 +36,24 @@ The notebook is structured in steps:
    - Combines human detector + dog detector + transfer learning breed classifier into one pipeline
 
 ---
+
+## Libraries Used
+- Python
+- TensorFlow / Keras
+- OpenCV
+- NumPy, scikit‑learn
+- Matplotlib
+
+---
+## Files in Repository
+
+- dog_app.ipynb (main file, containing all code and results)
+- 6 files used for testing algorithm in step 7 in notebook
+     - Albert_Einstein.webp
+     - Beagle_600.jpg
+     - Bulldog.jpg
+     - German_Shepherd.jpg
+     - Rottweiler.jpg
+     - Taylor_Swift.jpg
+
+
