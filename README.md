@@ -59,6 +59,6 @@ The notebook is structured in steps:
 ---
 
 ## Summary of Results
-The final algorithm reliably distinguishes between human and dog images using face detection and a pre‑trained ResNet‑50 dog detector. Dog breed classification performs well when using transfer learning, achieving over **80% test accuracy**. Most misclassifications occur between visually similar breeds, highlighting the inherent difficulty of fine‑grained breed recognition. Overall, the system demonstrates a robust end‑to‑end computer vision pipeline.
+The final algorithm reliably distinguishes between human and dog images using face detection and a pre‑trained ResNet‑50 dog detector. Dog breed classification performs well when using transfer learning, achieving over **80% test accuracy**. Most misclassifications occur between visually similar breeds. Overall, the system demonstrates a robust end‑to‑end CNN pipeline to detect dog breeds from dog images.
 
 
