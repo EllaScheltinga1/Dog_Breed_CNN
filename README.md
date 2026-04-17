@@ -61,4 +61,13 @@ The notebook is structured in steps:
 ## Summary of Results
 The final algorithm reliably distinguishes between human and dog images using face detection and a pre‑trained ResNet‑50 dog detector. Dog breed classification performs well when using transfer learning, achieving over **80% test accuracy**. Most misclassifications occur between visually similar breeds. Overall, the system demonstrates a robust end‑to‑end CNN pipeline to detect dog breeds from dog images.
 
+---
+
+## Acknowledgements
+This project was completed as a part of the Udacity Data Scientist Nanodegree program. 
+
+Acknowledgements to:
+- Udacity for providing the project structure, guidance, and datasets
+- The creators of the ImageNet dataset for pre-trained ResNet‑50 weights
+
 
